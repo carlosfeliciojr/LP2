@@ -1,0 +1,16 @@
+C:\Users\Carlos Felício\Documents\Fatec\2 Semestre\C#\Exercícios para nota\PVolume\PVolume\bin\Debug\netcoreapp3.1\PVolume.exe
+C:\Users\Carlos Felício\Documents\Fatec\2 Semestre\C#\Exercícios para nota\PVolume\PVolume\bin\Debug\netcoreapp3.1\PVolume.deps.json
+C:\Users\Carlos Felício\Documents\Fatec\2 Semestre\C#\Exercícios para nota\PVolume\PVolume\bin\Debug\netcoreapp3.1\PVolume.runtimeconfig.json
+C:\Users\Carlos Felício\Documents\Fatec\2 Semestre\C#\Exercícios para nota\PVolume\PVolume\bin\Debug\netcoreapp3.1\PVolume.runtimeconfig.dev.json
+C:\Users\Carlos Felício\Documents\Fatec\2 Semestre\C#\Exercícios para nota\PVolume\PVolume\bin\Debug\netcoreapp3.1\PVolume.dll
+C:\Users\Carlos Felício\Documents\Fatec\2 Semestre\C#\Exercícios para nota\PVolume\PVolume\bin\Debug\netcoreapp3.1\PVolume.pdb
+C:\Users\Carlos Felício\Documents\Fatec\2 Semestre\C#\Exercícios para nota\PVolume\PVolume\obj\Debug\netcoreapp3.1\PVolume.csproj.AssemblyReference.cache
+C:\Users\Carlos Felício\Documents\Fatec\2 Semestre\C#\Exercícios para nota\PVolume\PVolume\obj\Debug\netcoreapp3.1\PVolume.Form1.resources
+C:\Users\Carlos Felício\Documents\Fatec\2 Semestre\C#\Exercícios para nota\PVolume\PVolume\obj\Debug\netcoreapp3.1\PVolume.csproj.GenerateResource.cache
+C:\Users\Carlos Felício\Documents\Fatec\2 Semestre\C#\Exercícios para nota\PVolume\PVolume\obj\Debug\netcoreapp3.1\PVolume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Felício\Documents\Fatec\2 Semestre\C#\Exercícios para nota\PVolume\PVolume\obj\Debug\netcoreapp3.1\PVolume.AssemblyInfoInputs.cache
+C:\Users\Carlos Felício\Documents\Fatec\2 Semestre\C#\Exercícios para nota\PVolume\PVolume\obj\Debug\netcoreapp3.1\PVolume.AssemblyInfo.cs
+C:\Users\Carlos Felício\Documents\Fatec\2 Semestre\C#\Exercícios para nota\PVolume\PVolume\obj\Debug\netcoreapp3.1\PVolume.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Felício\Documents\Fatec\2 Semestre\C#\Exercícios para nota\PVolume\PVolume\obj\Debug\netcoreapp3.1\PVolume.dll
+C:\Users\Carlos Felício\Documents\Fatec\2 Semestre\C#\Exercícios para nota\PVolume\PVolume\obj\Debug\netcoreapp3.1\PVolume.pdb
+C:\Users\Carlos Felício\Documents\Fatec\2 Semestre\C#\Exercícios para nota\PVolume\PVolume\obj\Debug\netcoreapp3.1\PVolume.genruntimeconfig.cache
