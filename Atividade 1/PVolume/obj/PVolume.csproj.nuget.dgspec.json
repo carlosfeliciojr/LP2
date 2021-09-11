@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos Felício\\Documents\\Fatec\\2 Semestre\\C#\\Exercícios para nota\\PVolume\\PVolume\\PVolume.csproj": {}
+    "C:\\Users\\Carlos Felício\\Documents\\Fatec\\2 Semestre\\C#\\LP2\\Atividade 1\\PVolume\\PVolume.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos Felício\\Documents\\Fatec\\2 Semestre\\C#\\Exercícios para nota\\PVolume\\PVolume\\PVolume.csproj": {
+    "C:\\Users\\Carlos Felício\\Documents\\Fatec\\2 Semestre\\C#\\LP2\\Atividade 1\\PVolume\\PVolume.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Felício\\Documents\\Fatec\\2 Semestre\\C#\\Exercícios para nota\\PVolume\\PVolume\\PVolume.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos Felício\\Documents\\Fatec\\2 Semestre\\C#\\LP2\\Atividade 1\\PVolume\\PVolume.csproj",
         "projectName": "PVolume",
-        "projectPath": "C:\\Users\\Carlos Felício\\Documents\\Fatec\\2 Semestre\\C#\\Exercícios para nota\\PVolume\\PVolume\\PVolume.csproj",
+        "projectPath": "C:\\Users\\Carlos Felício\\Documents\\Fatec\\2 Semestre\\C#\\LP2\\Atividade 1\\PVolume\\PVolume.csproj",
         "packagesPath": "C:\\Users\\Carlos Felício\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos Felício\\Documents\\Fatec\\2 Semestre\\C#\\Exercícios para nota\\PVolume\\PVolume\\obj\\",
+        "outputPath": "C:\\Users\\Carlos Felício\\Documents\\Fatec\\2 Semestre\\C#\\LP2\\Atividade 1\\PVolume\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
